@@ -1,0 +1,7 @@
+2020-07-06 Added: Urban Audit 2004, Urban Audit 2001, Local Administrative Units 2019.
+2020-09-02 Added: Urban Audit 2004, Urban Audit 2001, Local Administrative Units 2019.
+* 2020-10-05 Point snapping is disabled in all datasets, number of decimals increased for 01M datasets.
+* 2020-12-05 Fixed broken utf-8 encoding.
+* 2021-03-15 Added LAU 2011,2012,2013,2014,2015,2020
+* 2021-04-26 Fixed country labels 2001, 2006 (incorrect Kosovo coordinates)
+* 2021-06-07 Fixed detected issues: NUTS 2013 BN - 4 records with id=NULL.
