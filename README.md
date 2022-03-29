@@ -7,7 +7,7 @@ es2_maps: examples of maps with border and colorfill
 
 subfolders:
 * "maps": a collection of maps (EU, ITA, FVG)
-* la cartella "data" contiene le informazioni da visualizzare sulle mappe
+* "data" sample datasets for testing
 
 TODO:
 
