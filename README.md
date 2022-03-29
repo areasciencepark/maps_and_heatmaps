@@ -9,6 +9,15 @@ subfolders:
 * "maps": a collection of maps (EU, ITA, FVG)
 * "data" sample datasets for testing
 
+link to download datasets:
+https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts?msclkid=fbe760f3af7411eca894829840064600
+
+In this notebook we use SHAPEFILE and coord.system EPSG 4326 
+of course TopoJSON and geoJSON are available
+
+Sample output: [sample_output.png]
+
+
 TODO:
 
 1. load maps SHP / JSON / CSV di 
@@ -22,3 +31,4 @@ TODO:
 4. make a map with background (border+color fill) and superimposed heatmaps
 
 5. load code and data in powerbi
+

@@ -1,0 +1,8 @@
+link to download datasets
+
+https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts?msclkid=fbe760f3af7411eca894829840064600
+
+use EPSG 4326 
+
+this notebook is using SHP
+of course TopoJSON and geoJSON are available
