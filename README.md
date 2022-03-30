@@ -10,7 +10,12 @@ subfolders:
 * "data" sample datasets for testing
 
 link to download datasets:
+EUROSTAT: countries and regions
 https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts?msclkid=fbe760f3af7411eca894829840064600
+
+ISTAT: italian municipalities and regions
+Shapefile https://www.istat.it/it/archivio/222527 
+Names and codes https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv 
 
 In this notebook we use SHAPEFILE and coord.system EPSG 4326 
 of course TopoJSON and geoJSON are available
