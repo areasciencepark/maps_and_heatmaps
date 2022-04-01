@@ -10,8 +10,9 @@ subfolders:
 * "data" sample datasets for testing
 
 link to download datasets:
-EUROSTAT: countries and regions
+EUROSTAT / GISCO countries / regions / municipalities NUTS3
 https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts?msclkid=fbe760f3af7411eca894829840064600
+https://gisco-services.ec.europa.eu/distribution/v2/nuts/ 
 
 ISTAT: italian municipalities and regions
 Shapefile https://www.istat.it/it/archivio/222527 
